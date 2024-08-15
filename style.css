@@ -7,3 +7,15 @@
     margin: 0 auto;
     box-shadow: 0 4px 8px greenyellow;
 }
+
+.content {
+    width: 0; 
+    height: 0;
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent;
+    border-top: 450px solid #79849B;
+    margin: 0 auto;
+    }
+    .content:hover {
+        background-color: blue;
+    }
