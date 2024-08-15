@@ -19,3 +19,14 @@
     .content:hover {
         background-color: blue;
     }
+    .car {
+        height: 0; 
+width: 300px;
+border-bottom: 300px solid #FFE344;
+border-left: 250px solid transparent;
+border-right: 250px solid transparent;
+margin: 0 auto;
+    }
+    .car:hover{
+        background-color: darkblue;
+    }
